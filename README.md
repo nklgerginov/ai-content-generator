@@ -1,6 +1,6 @@
 # AI Content Generator
 
-A Flask web application that leverages OpenAI's API to generate various types of content including marketing copy, blog posts, and social media captions.
+A Flask web application that leverages OpenAI's API to generate various types of content including marketing, blog posts, and social media captions.
 
 ## Features
 
